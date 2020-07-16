@@ -1,4 +1,6 @@
-# Unsplash Image Gallery
+# Infinite Image Gallery
+
+
 
 **Important**: Make sure to add your own [Unsplash API Key](https://unsplash.com/developers) to a `.env` file.
 
